@@ -4,4 +4,4 @@ A simple portfolio to practice Git and GitHub
 
 # About Me
 
-I am a Microsoft lover
+I am a Student
